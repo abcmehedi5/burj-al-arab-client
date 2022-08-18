@@ -1,0 +1,14 @@
+.AlbumContainer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.album img{
+    width: 40rem;
+}
+.album h3{
+    position: relative;
+    top: 30%;
+}

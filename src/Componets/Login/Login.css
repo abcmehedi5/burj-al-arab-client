@@ -1,0 +1,35 @@
+.googleLoginBtn button {
+    border: none;
+    font-size: 18px;
+    padding: 5px;
+    box-shadow: 0px 0px 10px 3px rgb(68, 68, 68);
+    border-radius: 17px;
+}
+
+.googleLoginBtn img {
+    width: 30px;
+}
+
+.googleLoginBtn {
+    margin-top: 30px;
+}
+
+.LoginArea {
+    background-color: rgb(83, 197, 140);
+
+    margin: auto;
+    top: 20%;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px 3px rgb(68, 68, 68);
+}
+
+.userLoginContainer {
+    /* background-image: url('../../images/header.png'); */
+    height: 90vh;
+    align-items: center;
+}

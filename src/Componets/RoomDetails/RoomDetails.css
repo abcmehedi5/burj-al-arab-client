@@ -1,0 +1,57 @@
+.detailsContainer {
+
+    width: 90%;
+    margin: auto;
+    background-color: #fde8e8;
+    padding: 40px;
+    text-align: center;
+}
+
+.detailsContainer img {
+    width: 60%;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.detials {
+    display: flex;
+    gap: 80px;
+    justify-content: center;    
+    margin: auto;
+    padding: 20px;
+
+}
+
+.detials h4 {
+    display: flex;
+
+}
+
+.detials h4 img {
+    width: 30px;
+}
+
+.detailsInfoContainer {
+    text-align: justify;
+
+}
+.detailsInfoContainer h1{
+    margin-left: 120px;
+    margin-bottom: 20px;
+    color: blue;
+}
+.detailsInfoContainer p{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(207, 221, 221);
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.pricer {
+    color: blue;
+}
+
+.detailsInfoContainer img {
+    width: 60%;
+}

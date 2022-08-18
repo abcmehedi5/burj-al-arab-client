@@ -1,0 +1,41 @@
+.bookContainer{
+    background-image: url('../../images/header.png');
+    height: 55vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+} 
+.bookItem{
+    position: relative;
+    top: 18rem;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: darkgray;
+    height: 80vh;
+
+}
+.bookItem form{
+    width: 40%;
+    margin: auto;
+    padding: 40px;
+    background-color: #755375;
+    border-radius: 10px;
+}
+.inputfeald{
+    width: 400px;
+    margin: auto;
+}
+
+.inputfeald Label{
+    color: white;
+}
+
+.bookingSubmit{
+    width: 150px;
+    margin: auto;
+    background-color: orange;
+}
+.bookingSubmit:hover{
+    background-color: black;
+    color: white;
+}

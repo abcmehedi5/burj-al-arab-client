@@ -1,0 +1,69 @@
+.headerContainer {
+    /* background-image: url('../../images/header.png'); */
+    /* height: 60vh; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.headerTitle {
+    color: white;
+    width: 500px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 40%;
+}
+
+.roomCard {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    gap: 4rem;
+    flex-wrap: wrap;
+
+}
+
+.carouselContainer {
+    position: relative;
+    margin: auto;
+    border: 3px solid;
+
+}
+
+.carouselContainer img {
+    height: 60vh;
+}
+.slider{
+    
+    position: relative;
+    width: 80%;
+    border: 2px solid black;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    
+}   
+.swiperCardContainer{
+    text-align: center;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-bottom: 4rem;
+    
+}
+.cardSlider{
+    text-align: center;
+    margin: auto;
+    display: flex   ;
+}
+.swiperMenu span{
+    margin: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.swiperMenu span:hover{
+    color: blue;
+    border-bottom: 2px solid black;
+}
